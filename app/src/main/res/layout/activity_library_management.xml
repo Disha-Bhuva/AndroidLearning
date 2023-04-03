@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#FAD4D4"
+    tools:context=".library_management">
+
+    <TextView
+        android:id="@+id/duedatedatepicker"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:background="@drawable/input_text"
+        android:gravity="center"
+        android:paddingLeft="60dp"
+        android:paddingRight="60dp"
+        android:text="Select Due Date"
+        android:textColor="#000" />
+
+    <TextView
+        android:id="@+id/todaydate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Today's Date :-"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/findduebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/buttons"
+        android:gravity="center"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:text="GET DUE PENALTY"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Penalty :"
+        android:textSize="35dp"
+        android:visibility="gone"
+        android:id="@+id/penalty"
+        android:textColor="@color/black"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"/>
+
+</LinearLayout>
+
+
