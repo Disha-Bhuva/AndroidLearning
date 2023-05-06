@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">demo_meet</string>
+    <string name="radius_2">radius_2</string>
+    <string name="radius_4">radius_4</string>
+    <string name="radius_6">radius_6</string>
+    <string name="ball">ball</string>
 </resources>

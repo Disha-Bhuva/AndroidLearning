@@ -3,10 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/drawable/anim.xml" value="0.2203125" />
         <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/drawable/buttons.xml" value="0.2203125" />
+        <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
         <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/drawable/input_text.xml" value="0.2203125" />
+        <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/layout/activity_animrotate.xml" value="0.182518115942029" />
         <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/layout/activity_library_management.xml" value="0.21" />
         <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/layout/activity_main.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/layout/activity_main10.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/layout/activity_main11.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/layout/activity_main12.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/layout/activity_main7.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/disha/AndroidStudioProjects/demo_meet/app/src/main/res/layout/activity_shared_preferences.xml" value="0.18704710144927536" />
       </map>
     </option>
   </component>

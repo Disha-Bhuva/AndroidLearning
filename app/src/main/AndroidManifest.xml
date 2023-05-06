@@ -10,19 +10,35 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Demo_meet">
         <activity
+            android:name=".MainActivity7"
+            android:exported="false" />
+        <activity
+            android:name=".animrotate"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity11"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity10"
+            android:exported="false" />
+        <activity
+            android:name=".shared_preferences"
+            android:exported="false" />
+        <activity
             android:name=".library_management"
-            android:exported="true" >
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity12"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="false">
-
-        </activity>
+            android:exported="false" />
     </application>
 
 </manifest>
